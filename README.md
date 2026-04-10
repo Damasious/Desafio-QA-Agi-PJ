@@ -142,4 +142,4 @@ Este repositório possui um workflow configurado para executar os testes de API 
 
 ## 👨🏾‍💻 Autor
 
-Desenvolvido por um Senior QA Engineer / SDET focado em qualidade contínua.
+Desenvolvido por um Senior QA Engineer focado em qualidade contínua.
