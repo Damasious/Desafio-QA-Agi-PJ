@@ -1,6 +1,6 @@
 # Desafio Técnico QA - Agibank 🚀
 
-![Java API Tests](https://github.com/Damasious/Desafio-QA-Agi-PJ/actions/workflows/java-tests.yml/badge.svg)
+![Java API Tests](https://github.com/FernandoDamasioAlves/Desafio-QA-Agi-PJ/actions/workflows/java-tests.yml/badge.svg)
 
 Solução completa de automação cobrindo testes de **API**, **Web (E2E)** e **Performance**, com foco em qualidade, organização e reprodutibilidade.
 
